@@ -1,6 +1,3 @@
-// Name: Wong Li Heng
-// UOW Student ID: 6859197
-
 //Changes the delivery date on load
 window.addEventListener('load', displayDate);
 
