@@ -1,4 +1,4 @@
-# simplegiftshop
+# Simple Gift Shop
 
 Simple Gift Shop website for ISIT207
 
